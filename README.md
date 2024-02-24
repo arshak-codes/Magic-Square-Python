@@ -1,4 +1,5 @@
-#Magic Square Generator in Python
+**Magic Square Generator in Python**
+
 This Python program generates a magic square of odd order (size) using the Siamese method. A magic square is a square matrix where the sum of the numbers in each row, each column, and both main diagonals is the same.
 
 How it Works
